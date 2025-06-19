@@ -57,7 +57,7 @@ The dashboard turns raw data into actionable insights that support strategic pla
 ## 📸 Dashboard Preview
 
 ### 📊 Main Overview
-![Main Page](Retail-Sales-Dashboard/blob/main/Retail%20Sales%20Performance%20Dashboarrd.png)
+![Main Page](Retail%20Sales%20Performance%20Dashboarrd.png)
 
 ### 📦 Inventory & Sales Analysis
 ![Inventory and Sales](Inventory%20and%20Sales%20Analysis.png)
