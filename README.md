@@ -87,12 +87,7 @@ SUMX(Retail_updateddata,
 - **Profitability:** Toys, Clothing, and Furniture offer highest margins  
 - **Business Value:** Empowers retailers to make **data-driven decisions** across operations
 
-## 👥 Contributors
-- Abu Saleh  
-- Baalqasim Alshehri  
-- Ali Al-Fatlawi  
-- Professor: Qing Zhang  
-- Gannon University – *Business Intelligence Course*
+
 
 ## 🏁 Conclusion
 This project showcases the power of **Power BI and DAX** to transform complex datasets into dynamic dashboards that support **real-world retail strategies**. From tracking inventory and analyzing profitability to identifying top performers, this dashboard delivers deep, executive-level insight.
