@@ -16,7 +16,7 @@ The dashboard turns raw data into actionable insights that support strategic pla
 - Enable export-ready reporting for strategic reviews
 
 ## 📂 Dataset
-- **Source:** `Retail_updateddata.csv`  
+- **Source:** `Walmart_Retail_Data.csv`  
 - **Time Period:** Jan 2022 – Jan 2024  
 - **Fields:** Date, Store ID, Product ID, Category, Region, Units Sold, Inventory Level, Price, Discount, Competitor Pricing, Holiday/Promotion flag
 
@@ -53,6 +53,23 @@ The dashboard turns raw data into actionable insights that support strategic pla
 - **Matrix Table:** Net Profit & Sales by Region/Category
 - **Stacked Bar Chart:** Sales vs Profit by Region  
 🔍 *Insight:* Toys & Clothing deliver high profit margins; groceries perform steadily
+
+## 📸 Dashboard Preview
+
+### 📊 Main Overview
+![Main Page](Retail%20Sales%20Performance%20Dashboard.png)
+
+### 📦 Inventory & Sales Analysis
+![Inventory and Sales](Inventory%20and%20Sales%20Analysis.png)
+
+### 💰 Sales Performance
+![Sales Performance](Sales%20Performance.png)
+
+### 🧩 Product Insights
+![Product Insights](Product%20Insights.png)
+
+### 📋 Detailed Profit Breakdown
+![Detailed Breakdown](Detailed%20Sales%20%26%20Profit%20Breakdown.png)
 
 ## 🧮 DAX Example
 ```DAX
